@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter YiCoin signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter CuriusCoin signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);

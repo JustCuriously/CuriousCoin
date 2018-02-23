@@ -38,7 +38,7 @@
        </property>
        <widget class="QWidget" name="tab">
         <attribute name="title">
-         <string>YiCoinNodes Network</string>
+         <string>CuriusCoinNodes Network</string>
         </attribute>
         <layout class="QGridLayout" name="gridLayout">
          <item row="1" column="0">
@@ -95,7 +95,7 @@
            <item>
             <widget class="QLabel" name="label_2">
              <property name="text">
-              <string>YiCoinNodes Node Count:</string>
+              <string>CuriusCoinNodes Node Count:</string>
              </property>
             </widget>
            </item>
@@ -125,7 +125,7 @@
        </widget>
        <widget class="QWidget" name="tab_2">
         <attribute name="title">
-         <string>My YiCoinNodes</string>
+         <string>My CuriusCoinNodes</string>
         </attribute>
         <layout class="QGridLayout" name="gridLayout_2">
          <item row="0" column="0">

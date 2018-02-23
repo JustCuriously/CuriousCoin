@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About YiCoin</source>
-        <translation>Über YiCoin</translation>
+        <source>About CuriusCoin</source>
+        <translation>Über CuriusCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;YiCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;YiCoin&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;CuriusCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CuriusCoin&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The YiCoin developers</source>
+Copyright © 2014 The CuriusCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -58,8 +58,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your YiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre YiCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
+        <source>These are your CuriusCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre CuriusCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -73,8 +73,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a YiCoin address</source>
-        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine YiCoin Adresse besitzen</translation>
+        <source>Sign a message to prove you own a CuriusCoin address</source>
+        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine CuriusCoin Adresse besitzen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -88,8 +88,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified YiCoin address</source>
-        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten YiCoin Adresse signiert wurde</translation>
+        <source>Verify a message to ensure it was signed with a specified CuriusCoin address</source>
+        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten CuriusCoin Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -256,8 +256,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>YiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>YiCoin wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
+        <source>CuriusCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>CuriusCoin wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -350,8 +350,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about YiCoin</source>
-        <translation>Informationen über YiCoin anzeigen</translation>
+        <source>Show information about CuriusCoin</source>
+        <translation>Informationen über CuriusCoin anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -390,13 +390,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a YiCoin address</source>
-        <translation>Senden Sie Coins an eine YiCoin Adresse</translation>
+        <source>Send coins to a CuriusCoin address</source>
+        <translation>Senden Sie Coins an eine CuriusCoin Adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for YiCoin</source>
-        <translation>Konfigurationsoptionen für YiCoin ändern</translation>
+        <source>Modify configuration options for CuriusCoin</source>
+        <translation>Konfigurationsoptionen für CuriusCoin ändern</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -436,8 +436,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>YiCoin</source>
-        <translation>YiCoin</translation>
+        <source>CuriusCoin</source>
+        <translation>CuriusCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -446,8 +446,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About YiCoin</source>
-        <translation>&amp;Über YiCoin</translation>
+        <source>&amp;About CuriusCoin</source>
+        <translation>&amp;Über CuriusCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -498,13 +498,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>YiCoin client</source>
+        <source>CuriusCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to YiCoin network</source>
-        <translation><numerusform>%n aktive Verbindung zum YiCoin Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum YiCoin Netzwerk</numerusform></translation>
+        <source>%n active connection(s) to CuriusCoin network</source>
+        <translation><numerusform>%n aktive Verbindung zum CuriusCoin Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum CuriusCoin Netzwerk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -597,8 +597,8 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid YiCoin address or malformed URI parameters.</source>
-        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige YiCoin Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CuriusCoin address or malformed URI parameters.</source>
+        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige CuriusCoin Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -720,8 +720,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. YiCoin can no longer continue safely and will quit.</source>
-        <translation>Ein fataler Fehler ist aufgetreten. YiCoin kann nicht fortgesetzt werden und wird beendet.</translation>
+        <source>A fatal error occurred. CuriusCoin can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler ist aufgetreten. CuriusCoin kann nicht fortgesetzt werden und wird beendet.</translation>
     </message>
 </context>
 <context>
@@ -1040,8 +1040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid YiCoin address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige YiCoin Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid CuriusCoin address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige CuriusCoin Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1059,7 +1059,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>YiCoin-Qt</source>
+        <source>CuriusCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1132,13 +1132,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start YiCoin after logging in to the system.</source>
-        <translation>Automatisch YiCoin starten beim Einloggen in das System.</translation>
+        <source>Automatically start CuriusCoin after logging in to the system.</source>
+        <translation>Automatisch CuriusCoin starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start YiCoin on system login</source>
-        <translation>&amp;Starte YiCoin bei Systemstart</translation>
+        <source>&amp;Start CuriusCoin on system login</source>
+        <translation>&amp;Starte CuriusCoin bei Systemstart</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1147,8 +1147,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the YiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den YiCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the CuriusCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den CuriusCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1157,7 +1157,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the YiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the CuriusCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1232,7 +1232,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting YiCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting CuriusCoin.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1243,7 +1243,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von YiCoins angezeigt werden soll.</translation>
+        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von CuriusCoins angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1299,7 +1299,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting YiCoin.</source>
+        <source>This setting will take effect after restarting CuriusCoin.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1318,8 +1318,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the YiCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem YiCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CuriusCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem CuriusCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1392,7 +1392,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start YiCoin: click-to-pay handler</source>
+        <source>Cannot start CuriusCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1560,7 +1560,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the YiCoin-Qt help message to get a list with possible YiCoin command-line options.</source>
+        <source>Show the CuriusCoin-Qt help message to get a list with possible CuriusCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1580,13 +1580,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>YiCoin - Debug window</source>
-        <translation>YiCoin - Debug Fenster</translation>
+        <source>CuriusCoin - Debug window</source>
+        <translation>CuriusCoin - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>YiCoin Core</source>
-        <translation>YiCoin Kern</translation>
+        <source>CuriusCoin Core</source>
+        <translation>CuriusCoin Kern</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1595,7 +1595,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the YiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the CuriusCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1605,7 +1605,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the YiCoin RPC console.</source>
+        <source>Welcome to the CuriusCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1799,7 +1799,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1899,8 +1899,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid YiCoin address</source>
-        <translation>Warnung: Ungültige YiCoin Adresse</translation>
+        <source>WARNING: Invalid CuriusCoin address</source>
+        <translation>Warnung: Ungültige CuriusCoin Adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1973,7 +1973,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2034,8 +2034,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this YiCoin address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser YiCoin Adresse bist.</translation>
+        <source>Sign the message to prove you own this CuriusCoin address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser CuriusCoin Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2066,7 +2066,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified YiCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified CuriusCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2077,7 +2077,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2087,8 +2087,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter YiCoin signature</source>
-        <translation>YiCoin Signatur eingeben</translation>
+        <source>Enter CuriusCoin signature</source>
+        <translation>CuriusCoin Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2666,7 +2666,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>YiCoin version</source>
+        <source>CuriusCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2676,8 +2676,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or YiCoind</source>
-        <translation>Kommando versenden an -server oder YiCoind </translation>
+        <source>Send command to -server or CuriusCoind</source>
+        <translation>Kommando versenden an -server oder CuriusCoind </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2696,13 +2696,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: YiCoin.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: YiCoin.conf)</translation>
+        <source>Specify configuration file (default: CuriusCoin.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: CuriusCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: YiCoind.pid)</source>
-        <translation>PID Datei angeben (Standard: YiCoin.pid)</translation>
+        <source>Specify pid file (default: CuriusCoind.pid)</source>
+        <translation>PID Datei angeben (Standard: CuriusCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2719,13 +2719,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=YiCoinrpc
+rpcuser=CuriusCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CuriusCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2831,8 +2831,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong YiCoin will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird YiCoin nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CuriusCoin will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird CuriusCoin nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3138,7 +3138,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. YiCoin is shutting down.</source>
+        <source>Initialization sanity check failed. CuriusCoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3203,13 +3203,13 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of YiCoin</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der YiCoin Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CuriusCoin</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der CuriusCoin Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart YiCoin to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die YiCoin Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart CuriusCoin to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die CuriusCoin Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3273,7 +3273,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. YiCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. CuriusCoin is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
@@ -3313,7 +3313,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. YiCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. CuriusCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

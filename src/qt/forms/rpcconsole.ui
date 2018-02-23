@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>YiCoin - Debug window</string>
+   <string>CuriusCoin - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>YiCoin Core</string>
+          <string>CuriusCoin Core</string>
          </property>
         </widget>
        </item>
@@ -299,7 +299,7 @@
        <item row="14" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the YiCoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the CuriusCoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -325,7 +325,7 @@
        <item row="16" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the YiCoin-Qt help message to get a list with possible YiCoin command-line options.</string>
+          <string>Show the CuriusCoin-Qt help message to get a list with possible CuriusCoin command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>

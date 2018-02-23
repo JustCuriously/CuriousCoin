@@ -36,7 +36,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)"));
 #endif
 
     addEntry();
@@ -463,7 +463,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString & text)
         else if (!CBitcoinAddress(text.toStdString()).IsValid())
         {
             ui->labelCoinControlChangeLabel->setStyleSheet("QLabel{color:red;}");
-            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid YiCoin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid CuriusCoin address"));
         }
         else
         {

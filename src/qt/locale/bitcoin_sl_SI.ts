@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About YiCoin</source>
-        <translation>O YiCoin</translation>
+        <source>About CuriusCoin</source>
+        <translation>O CuriusCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;YiCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;YiCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;CuriusCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CuriusCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The YiCoin developers</source>
+Copyright © 2014 The CuriusCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -58,8 +58,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your YiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši YiCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your CuriusCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši CuriusCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -73,8 +73,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a YiCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva YiCoin naslova</translation>
+        <source>Sign a message to prove you own a CuriusCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva CuriusCoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -88,8 +88,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified YiCoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim YiCoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified CuriusCoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim CuriusCoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -256,8 +256,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>YiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>YiCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>CuriusCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>CuriusCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -350,8 +350,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about YiCoin</source>
-        <translation>Pokaži informacije o YiCoin</translation>
+        <source>Show information about CuriusCoin</source>
+        <translation>Pokaži informacije o CuriusCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -390,13 +390,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a YiCoin address</source>
-        <translation>Pošlji kovance na YiCoin naslov</translation>
+        <source>Send coins to a CuriusCoin address</source>
+        <translation>Pošlji kovance na CuriusCoin naslov</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for YiCoin</source>
-        <translation>Spremeni nastavitve za YiCoin</translation>
+        <source>Modify configuration options for CuriusCoin</source>
+        <translation>Spremeni nastavitve za CuriusCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -436,8 +436,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>YiCoin</source>
-        <translation>YiCoin</translation>
+        <source>CuriusCoin</source>
+        <translation>CuriusCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -446,8 +446,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About YiCoin</source>
-        <translation>&amp;O YiCoin</translation>
+        <source>&amp;About CuriusCoin</source>
+        <translation>&amp;O CuriusCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -498,13 +498,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>YiCoin client</source>
-        <translation>YiCoin program</translation>
+        <source>CuriusCoin client</source>
+        <translation>CuriusCoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to YiCoin network</source>
-        <translation><numerusform>%n aktivne povezave na YiCoin omrežje</numerusform><numerusform>%n aktivnih povezav na YiCoin omrežje</numerusform><numerusform>%n aktivnih povezav na YiCoin omrežje</numerusform><numerusform>%n aktivnih povezav na YiCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to CuriusCoin network</source>
+        <translation><numerusform>%n aktivne povezave na CuriusCoin omrežje</numerusform><numerusform>%n aktivnih povezav na CuriusCoin omrežje</numerusform><numerusform>%n aktivnih povezav na CuriusCoin omrežje</numerusform><numerusform>%n aktivnih povezav na CuriusCoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -598,8 +598,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid YiCoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega YiCoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CuriusCoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega CuriusCoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -721,8 +721,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. YiCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program YiCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. CuriusCoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program CuriusCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1055,8 +1055,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid YiCoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven YiCoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid CuriusCoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven CuriusCoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>YiCoin-Qt</source>
-        <translation>YiCoin-Qt</translation>
+        <source>CuriusCoin-Qt</source>
+        <translation>CuriusCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start YiCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi YiCoin ob zagonu sistema.</translation>
+        <source>Automatically start CuriusCoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi CuriusCoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start YiCoin on system login</source>
-        <translation>&amp;Zaženi YiCoin ob prijavi v sistem</translation>
+        <source>&amp;Start CuriusCoin on system login</source>
+        <translation>&amp;Zaženi CuriusCoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1162,8 +1162,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the YiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za YiCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the CuriusCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za CuriusCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1172,8 +1172,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the YiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na YiCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the CuriusCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na CuriusCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1247,8 +1247,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting YiCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu YiCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CuriusCoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu CuriusCoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1314,8 +1314,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting YiCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu YiCoin aplikacije</translation>
+        <source>This setting will take effect after restarting CuriusCoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu CuriusCoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1333,8 +1333,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the YiCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z YiCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CuriusCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z CuriusCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1407,7 +1407,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start YiCoin: click-to-pay handler</source>
+        <source>Cannot start CuriusCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1575,8 +1575,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the YiCoin-Qt help message to get a list with possible YiCoin command-line options.</source>
-        <translation>Prikaži YiCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice YiCoin aplikacije</translation>
+        <source>Show the CuriusCoin-Qt help message to get a list with possible CuriusCoin command-line options.</source>
+        <translation>Prikaži CuriusCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice CuriusCoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1595,13 +1595,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>YiCoin - Debug window</source>
-        <translation>YiCoin - okno za odpravljanje napak</translation>
+        <source>CuriusCoin - Debug window</source>
+        <translation>CuriusCoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>YiCoin Core</source>
-        <translation>YiCoin jedro</translation>
+        <source>CuriusCoin Core</source>
+        <translation>CuriusCoin jedro</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1610,8 +1610,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the YiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri YiCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the CuriusCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri CuriusCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1620,8 +1620,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the YiCoin RPC console.</source>
-        <translation>Dobrodošli v YiCoin RPC konzoli.</translation>
+        <source>Welcome to the CuriusCoin RPC console.</source>
+        <translation>Dobrodošli v CuriusCoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1814,8 +1814,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Vnesite YiCoin naslov (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Vnesite CuriusCoin naslov (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1914,8 +1914,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid YiCoin address</source>
-        <translation>OPOZORILO: Neveljaven YiCoin naslov</translation>
+        <source>WARNING: Invalid CuriusCoin address</source>
+        <translation>OPOZORILO: Neveljaven CuriusCoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1988,8 +1988,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Vnesite YiCoin naslov (npr. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Vnesite CuriusCoin naslov (npr. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
 </context>
 <context>
@@ -2049,8 +2049,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this YiCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva YiCoin naslova</translation>
+        <source>Sign the message to prove you own this CuriusCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva CuriusCoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2081,8 +2081,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified YiCoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim YiCoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified CuriusCoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim CuriusCoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2092,8 +2092,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Vnesite YiCoin naslov (npr. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Vnesite CuriusCoin naslov (npr. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2102,8 +2102,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter YiCoin signature</source>
-        <translation>Vnesite YiCoin podpis</translation>
+        <source>Enter CuriusCoin signature</source>
+        <translation>Vnesite CuriusCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2681,8 +2681,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>YiCoin version</source>
-        <translation>YiCoin različica</translation>
+        <source>CuriusCoin version</source>
+        <translation>CuriusCoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2691,7 +2691,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or YiCoind</source>
+        <source>Send command to -server or CuriusCoind</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2711,13 +2711,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: YiCoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: YiCoin.conf)</translation>
+        <source>Specify configuration file (default: CuriusCoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: CuriusCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: YiCoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: YiCoin.pid)</translation>
+        <source>Specify pid file (default: CuriusCoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: CuriusCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2734,13 +2734,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=YiCoinrpc
+rpcuser=CuriusCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CuriusCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2846,8 +2846,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong YiCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno YiCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CuriusCoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno CuriusCoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3153,7 +3153,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. YiCoin is shutting down.</source>
+        <source>Initialization sanity check failed. CuriusCoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3218,13 +3218,13 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of YiCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo YiCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CuriusCoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo CuriusCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart YiCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite YiCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart CuriusCoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite CuriusCoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3288,8 +3288,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. YiCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča YiCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. CuriusCoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča CuriusCoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3328,7 +3328,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. YiCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. CuriusCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

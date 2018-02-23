@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About YiCoin</source>
-        <translation>Tietoa YiCoinista</translation>
+        <source>About CuriusCoin</source>
+        <translation>Tietoa CuriusCoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;YiCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;YiCoin&lt;/b&gt;-asiakasohjelman versio</translation>
+        <source>&lt;b&gt;CuriusCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CuriusCoin&lt;/b&gt;-asiakasohjelman versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The YiCoin developers</source>
+Copyright © 2014 The CuriusCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The YiCoin developers</translation>
+Copyright © 2014 The CuriusCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your YiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat YiCoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your CuriusCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat CuriusCoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -81,8 +81,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a YiCoin address</source>
-        <translation>Allekirjoita viesti osoittaaksesi YiCoin-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a CuriusCoin address</source>
+        <translation>Allekirjoita viesti osoittaaksesi CuriusCoin-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified YiCoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen YiCoin-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified CuriusCoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen CuriusCoin-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -233,7 +233,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI YiCoinISI&lt;/b&gt;!</translation>
+        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI CuriusCoinISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -264,8 +264,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+82"/>
-        <source>YiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>YiCoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>CuriusCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>CuriusCoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -358,8 +358,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about YiCoin</source>
-        <translation>Näytä tietoja YiCoinista</translation>
+        <source>Show information about CuriusCoin</source>
+        <translation>Näytä tietoja CuriusCoinista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -398,12 +398,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a YiCoin address</source>
-        <translation>Lähetä varoja YiCoin-osoitteeseen</translation>
+        <source>Send coins to a CuriusCoin address</source>
+        <translation>Lähetä varoja CuriusCoin-osoitteeseen</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for YiCoin</source>
+        <source>Modify configuration options for CuriusCoin</source>
         <translation>Mukauta asiakasohjelman asetuksia</translation>
     </message>
     <message>
@@ -444,8 +444,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>YiCoin</source>
-        <translation>YiCoin</translation>
+        <source>CuriusCoin</source>
+        <translation>CuriusCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -454,8 +454,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About YiCoin</source>
-        <translation>&amp;Tietoa YiCoinista</translation>
+        <source>&amp;About CuriusCoin</source>
+        <translation>&amp;Tietoa CuriusCoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -506,13 +506,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>YiCoin client</source>
-        <translation>YiCoin-asiakasohjelma</translation>
+        <source>CuriusCoin client</source>
+        <translation>CuriusCoin-asiakasohjelma</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to YiCoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys YiCoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä YiCoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to CuriusCoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys CuriusCoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä CuriusCoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid YiCoin address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä YiCoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CuriusCoin address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä CuriusCoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. YiCoin can no longer continue safely and will quit.</source>
-        <translation>Virhe kohdattu. YiCoin-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
+        <source>A fatal error occurred. CuriusCoin can no longer continue safely and will quit.</source>
+        <translation>Virhe kohdattu. CuriusCoin-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid YiCoin address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty YiCoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid CuriusCoin address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty CuriusCoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>YiCoin-Qt</source>
-        <translation>YiCoin-Qt</translation>
+        <source>CuriusCoin-Qt</source>
+        <translation>CuriusCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start YiCoin after logging in to the system.</source>
-        <translation>Käynnistä YiCoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start CuriusCoin after logging in to the system.</source>
+        <translation>Käynnistä CuriusCoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start YiCoin on system login</source>
-        <translation>%Käynnistä YiCoin-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start CuriusCoin on system login</source>
+        <translation>%Käynnistä CuriusCoin-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1169,8 +1169,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the YiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa YiCoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the CuriusCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa CuriusCoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the YiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä YiCoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n kautta).</translation>
+        <source>Connect to the CuriusCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä CuriusCoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n kautta).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting YiCoin.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta YiCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CuriusCoin.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta CuriusCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1321,8 +1321,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting YiCoin.</source>
-        <translation>Tämä asetus tulee voimaan vasta YiCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting CuriusCoin.</source>
+        <translation>Tämä asetus tulee voimaan vasta CuriusCoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1340,8 +1340,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the YiCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti YiCoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CuriusCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti CuriusCoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1414,7 +1414,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start YiCoin: click-to-pay handler</source>
+        <source>Cannot start CuriusCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1582,8 +1582,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the YiCoin-Qt help message to get a list with possible YiCoin command-line options.</source>
-        <translation>Näytä YiCoin-Qt:n avustusohje saadaksesi listan käytettävistä YiCoinin komentokehotteen määritteistä.</translation>
+        <source>Show the CuriusCoin-Qt help message to get a list with possible CuriusCoin command-line options.</source>
+        <translation>Näytä CuriusCoin-Qt:n avustusohje saadaksesi listan käytettävistä CuriusCoinin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1602,13 +1602,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>YiCoin - Debug window</source>
-        <translation>YiCoin - Debug-ikkuna</translation>
+        <source>CuriusCoin - Debug window</source>
+        <translation>CuriusCoin - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>YiCoin Core</source>
-        <translation>YiCoinin ydin</translation>
+        <source>CuriusCoin Core</source>
+        <translation>CuriusCoinin ydin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1617,8 +1617,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the YiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa YiCoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the CuriusCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa CuriusCoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1627,8 +1627,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the YiCoin RPC console.</source>
-        <translation>Tervetuloa YiCoinin RPC-konsoliin.</translation>
+        <source>Welcome to the CuriusCoin RPC console.</source>
+        <translation>Tervetuloa CuriusCoinin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1688,7 +1688,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä YiCoineja</translation>
+        <translation>Lähetä CuriusCoineja</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1821,8 +1821,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Syötä YiCoin-osoite (esim. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Syötä CuriusCoin-osoite (esim. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1921,8 +1921,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid YiCoin address</source>
-        <translation>VAROITUS: Epäkelpo YiCoin-osoite</translation>
+        <source>WARNING: Invalid CuriusCoin address</source>
+        <translation>VAROITUS: Epäkelpo CuriusCoin-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1995,8 +1995,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Syötä YiCoin-osoite (esim. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Syötä CuriusCoin-osoite (esim. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
 </context>
 <context>
@@ -2056,8 +2056,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this YiCoin address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän YiCoin-osoitteen</translation>
+        <source>Sign the message to prove you own this CuriusCoin address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän CuriusCoin-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2088,8 +2088,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified YiCoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä YiCoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified CuriusCoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä CuriusCoin-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2099,8 +2099,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Syötä YiCoin-osoite (esim. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Syötä CuriusCoin-osoite (esim. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2109,8 +2109,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter YiCoin signature</source>
-        <translation>Syötä YiCoin-allekirjoitus</translation>
+        <source>Enter CuriusCoin signature</source>
+        <translation>Syötä CuriusCoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2688,8 +2688,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>YiCoin version</source>
-        <translation>YiCoinin versio</translation>
+        <source>CuriusCoin version</source>
+        <translation>CuriusCoinin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2698,8 +2698,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or YiCoind</source>
-        <translation>Syötä komento kohteeseen -server tai YiCoind</translation>
+        <source>Send command to -server or CuriusCoind</source>
+        <translation>Syötä komento kohteeseen -server tai CuriusCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2718,13 +2718,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: YiCoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: YiCoin.conf)</translation>
+        <source>Specify configuration file (default: CuriusCoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: CuriusCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: YiCoind.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: YiCoin.pid)</translation>
+        <source>Specify pid file (default: CuriusCoind.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: CuriusCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2741,13 +2741,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=YiCoinrpc
+rpcuser=CuriusCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CuriusCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2853,8 +2853,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong YiCoin will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, YiCoin ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CuriusCoin will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, CuriusCoin ei toimi oikein.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3160,8 +3160,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. YiCoin is shutting down.</source>
-        <translation>Käyttöönottotarkistus epäonnistui. YiCoin-asiakasohjelma suljetaan.</translation>
+        <source>Initialization sanity check failed. CuriusCoin is shutting down.</source>
+        <translation>Käyttöönottotarkistus epäonnistui. CuriusCoin-asiakasohjelma suljetaan.</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -3225,13 +3225,13 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of YiCoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version YiCoin-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CuriusCoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version CuriusCoin-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart YiCoin to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä YiCoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart CuriusCoin to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä CuriusCoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3295,8 +3295,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. YiCoin is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. YiCoin-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. CuriusCoin is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. CuriusCoin-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3335,7 +3335,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. YiCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. CuriusCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

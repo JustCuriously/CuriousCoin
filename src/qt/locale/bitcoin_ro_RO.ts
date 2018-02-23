@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About YiCoin</source>
-        <translation>Despre YiCoin</translation>
+        <source>About CuriusCoin</source>
+        <translation>Despre CuriusCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;YiCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;YiCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;CuriusCoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;CuriusCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The YiCoin developers</source>
+Copyright © 2014 The CuriusCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The YiCoin developers</translation>
+Copyright © 2014 The CuriusCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your YiCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele YiCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your CuriusCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele CuriusCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a YiCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă YiCoin</translation>
+        <source>Sign a message to prove you own a CuriusCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă CuriusCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified YiCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă YiCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified CuriusCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă CuriusCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>YiCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>YiCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>CuriusCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>CuriusCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about YiCoin</source>
-        <translation>Arată informații despre YiCoin</translation>
+        <source>Show information about CuriusCoin</source>
+        <translation>Arată informații despre CuriusCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a YiCoin address</source>
-        <translation>Trimite monede către o adresă YiCoin</translation>
+        <source>Send coins to a CuriusCoin address</source>
+        <translation>Trimite monede către o adresă CuriusCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for YiCoin</source>
-        <translation>Modifică opțiuni de configurare pentru YiCoin</translation>
+        <source>Modify configuration options for CuriusCoin</source>
+        <translation>Modifică opțiuni de configurare pentru CuriusCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>YiCoin</source>
-        <translation>YiCoin</translation>
+        <source>CuriusCoin</source>
+        <translation>CuriusCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About YiCoin</source>
-        <translation>Despre YiCoin</translation>
+        <source>&amp;About CuriusCoin</source>
+        <translation>Despre CuriusCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>YiCoin client</source>
-        <translation>Clientul YiCoin</translation>
+        <source>CuriusCoin client</source>
+        <translation>Clientul CuriusCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to YiCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua YiCoin</numerusform><numerusform>%n conexiuni active la reteaua YiCoin</numerusform><numerusform>%n conexiuni active la reteaua YiCoin</numerusform></translation>
+        <source>%n active connection(s) to CuriusCoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua CuriusCoin</numerusform><numerusform>%n conexiuni active la reteaua CuriusCoin</numerusform><numerusform>%n conexiuni active la reteaua CuriusCoin</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid YiCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa YiCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CuriusCoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa CuriusCoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. YiCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. YiCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. CuriusCoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. CuriusCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid YiCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă YiCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid CuriusCoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă CuriusCoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>YiCoin-Qt</source>
-        <translation>YiCoin-Qt</translation>
+        <source>CuriusCoin-Qt</source>
+        <translation>CuriusCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start YiCoin after logging in to the system.</source>
-        <translation>Pornește YiCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start CuriusCoin after logging in to the system.</source>
+        <translation>Pornește CuriusCoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start YiCoin on system login</source>
-        <translation>$Pornește YiCoin la logarea în sistem</translation>
+        <source>&amp;Start CuriusCoin on system login</source>
+        <translation>$Pornește CuriusCoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the YiCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul YiCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the CuriusCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul CuriusCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the YiCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua YiCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the CuriusCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua CuriusCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting YiCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea YiCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CuriusCoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea CuriusCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting YiCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea YiCoin.</translation>
+        <source>This setting will take effect after restarting CuriusCoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea CuriusCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the YiCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua YiCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CuriusCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua CuriusCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1409,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start YiCoin: click-to-pay handler</source>
+        <source>Cannot start CuriusCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1577,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the YiCoin-Qt help message to get a list with possible YiCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor YiCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă YiCoin.</translation>
+        <source>Show the CuriusCoin-Qt help message to get a list with possible CuriusCoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor CuriusCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă CuriusCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>YiCoin - Debug window</source>
-        <translation>YiCoin - fereastră depanare</translation>
+        <source>CuriusCoin - Debug window</source>
+        <translation>CuriusCoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>YiCoin Core</source>
-        <translation>YiCoin Core</translation>
+        <source>CuriusCoin Core</source>
+        <translation>CuriusCoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the YiCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare YiCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the CuriusCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare CuriusCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the YiCoin RPC console.</source>
-        <translation>Bine ati venit la consola YiCoin RPC.</translation>
+        <source>Welcome to the CuriusCoin RPC console.</source>
+        <translation>Bine ati venit la consola CuriusCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Introduceți o adresă YiCoin(ex:CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Introduceți o adresă CuriusCoin(ex:CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid YiCoin address</source>
-        <translation>Atenție: Adresă YiCoin invalidă</translation>
+        <source>WARNING: Invalid CuriusCoin address</source>
+        <translation>Atenție: Adresă CuriusCoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Introduceți o adresă YiCoin(ex:CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Introduceți o adresă CuriusCoin(ex:CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this YiCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă YiCoin</translation>
+        <source>Sign the message to prove you own this CuriusCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă CuriusCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified YiCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă YiCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified CuriusCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă CuriusCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a YiCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
-        <translation>Introduceți o adresă YiCoin(ex:CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
+        <source>Enter a CuriusCoin address (e.g. CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</source>
+        <translation>Introduceți o adresă CuriusCoin(ex:CKPnZKDzaDXqEgKJ4GdUg58gXxgzA7mkny)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter YiCoin signature</source>
-        <translation>Introduceti semnatura YiCoin</translation>
+        <source>Enter CuriusCoin signature</source>
+        <translation>Introduceti semnatura CuriusCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>YiCoin version</source>
-        <translation>Versiune YiCoin</translation>
+        <source>CuriusCoin version</source>
+        <translation>Versiune CuriusCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or YiCoind</source>
-        <translation>Trimite comanda catre server sau YiCoind</translation>
+        <source>Send command to -server or CuriusCoind</source>
+        <translation>Trimite comanda catre server sau CuriusCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: YiCoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: YiCoin.conf)</translation>
+        <source>Specify configuration file (default: CuriusCoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: CuriusCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: YiCoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: YiCoin.pid)</translation>
+        <source>Specify pid file (default: CuriusCoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: CuriusCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2736,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=YiCoinrpc
+rpcuser=CuriusCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CuriusCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong YiCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit YiCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CuriusCoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit CuriusCoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. YiCoin is shutting down.</source>
+        <source>Initialization sanity check failed. CuriusCoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of YiCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de YiCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CuriusCoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de CuriusCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart YiCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați YiCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart CuriusCoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați CuriusCoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. YiCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil YiCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. CuriusCoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil CuriusCoin ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;YiCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. YiCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. CuriusCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

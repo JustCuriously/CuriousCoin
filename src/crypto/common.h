@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef YiCoin_CRYPTO_COMMON_H
-#define YiCoin_CRYPTO_COMMON_H
+#ifndef CuriusCoin_CRYPTO_COMMON_H
+#define CuriusCoin_CRYPTO_COMMON_H
 
 #include <stdint.h>
 
@@ -113,4 +113,4 @@ void static inline WriteBE64(unsigned char* ptr, uint64_t x)
 #endif
 }
 
-#endif // YiCoin_CRYPTO_COMMON_H
+#endif // CuriusCoin_CRYPTO_COMMON_H

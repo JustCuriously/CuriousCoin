@@ -67,7 +67,7 @@ struct MessageTableEntry
     }
 };
 
-/** Interface to YiCoin Secure Messaging from Qt view code. */
+/** Interface to CuriusCoin Secure Messaging from Qt view code. */
 class MessageModel : public QAbstractTableModel
 {
     Q_OBJECT

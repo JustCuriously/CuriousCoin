@@ -51,11 +51,11 @@ void OptionsModel::Init()
     if (!settings.contains("nDarksendRounds"))
         settings.setValue("nDarksendRounds", 2);
 
-    if (!settings.contains("nAnonymizeYiCoinAmount"))
-        settings.setValue("nAnonymizeYiCoinAmount", 1000);
+    if (!settings.contains("nAnonymizeCuriusCoinAmount"))
+        settings.setValue("nAnonymizeCuriusCoinAmount", 1000);
 
     nDarksendRounds = settings.value("nDarksendRounds").toLongLong();
-    nAnonymizeYiCoinAmount = settings.value("nAnonymizeYiCoinAmount").toLongLong();
+    nAnonymizeCuriusCoinAmount = settings.value("nAnonymizeCuriusCoinAmount").toLongLong();
 
     // These are shared with core Bitcoin; we want
     // command-line options to override the GUI settings:
@@ -70,8 +70,8 @@ void OptionsModel::Init()
 
     if (settings.contains("nDarksendRounds"))
         SoftSetArg("-darksendrounds", settings.value("nDarksendRounds").toString().toStdString());
-    if (settings.contains("nAnonymizeYiCoinAmount"))
-        SoftSetArg("-anonymizeYiCoinamount", settings.value("nAnonymizeYiCoinAmount").toString().toStdString());
+    if (settings.contains("nAnonymizeCuriusCoinAmount"))
+        SoftSetArg("-anonymizeCuriusCoinamount", settings.value("nAnonymizeCuriusCoinAmount").toString().toStdString());
 }
 
 int OptionsModel::rowCount(const QModelIndex & parent) const
@@ -216,10 +216,10 @@ bool OptionsModel::setData(const QModelIndex & index, const QVariant & value, in
             settings.setValue("nDarksendRounds", nDarksendRounds);
             emit darksendRoundsChanged(nDarksendRounds);
             break;
-        case anonymizeYiCoinAmount:
-            nAnonymizeYiCoinAmount = value.toInt();
-            settings.setValue("nAnonymizeYiCoinAmount", nAnonymizeYiCoinAmount);
-            emit anonymizeYiCoinAmountChanged(nAnonymizeYiCoinAmount);
+        case anonymizeCuriusCoinAmount:
+            nAnonymizeCuriusCoinAmount = value.toInt();
+            settings.setValue("nAnonymizeCuriusCoinAmount", nAnonymizeCuriusCoinAmount);
+            emit anonymizeCuriusCoinAmountChanged(nAnonymizeCuriusCoinAmount);
             break;
         default:
             break;

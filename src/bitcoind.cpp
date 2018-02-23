@@ -50,12 +50,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("YiCoin version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("CuriusCoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  YiCoind [options]                     " + "\n" +
-                  "  YiCoind [options] <command> [params]  " + _("Send command to -server or YiCoind") + "\n" +
-                  "  YiCoind [options] help                " + _("List commands") + "\n" +
-                  "  YiCoind [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  CuriusCoind [options]                     " + "\n" +
+                  "  CuriusCoind [options] <command> [params]  " + _("Send command to -server or CuriusCoind") + "\n" +
+                  "  CuriusCoind [options] help                " + _("List commands") + "\n" +
+                  "  CuriusCoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -65,7 +65,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "YiCoin:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "CuriusCoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)
