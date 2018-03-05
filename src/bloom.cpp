@@ -1,4 +1,4 @@
-// Copyright (c) 2012 The Bitcoin developers
+// Copyright (c) 2012-2014 The Bitcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 #include <math.h>
@@ -7,7 +7,7 @@
 #include "bloom.h"
 #include "main.h"
 #include "script.h"
-#include "hash.h"
+
 #define LN2SQUARED 0.4804530139182014246671025263266649717305529515945455
 #define LN2 0.6931471805599453094172321214581765680755001343602552
 
@@ -25,7 +25,7 @@ vData(min((unsigned int)(-1  / LN2SQUARED * nElements * log(nFPRate)), MAX_BLOOM
 // See http://en.wikipedia.org/wiki/Bloom_filter for an explanation of these formulas
 isFull(false),
 isEmpty(false),
-nHashFuncs(min((unsigned int)(vData.size() * 8 / nElements * LN2), MAX_HASH_FUNCS)),
+nHashFuncs(min((unsigned int)(vData.size() * 8 / nElements * LN2), MAX_HASH_CURCS)),
 nTweak(nTweakIn),
 nFlags(nFlagsIn)
 {
@@ -96,7 +96,7 @@ bool CBloomFilter::contains(const uint256& hash) const
 
 bool CBloomFilter::IsWithinSizeConstraints() const
 {
-    return vData.size() <= MAX_BLOOM_FILTER_SIZE && nHashFuncs <= MAX_HASH_FUNCS;
+    return vData.size() <= MAX_BLOOM_FILTER_SIZE && nHashFuncs <= MAX_HASH_CURCS;
 }
 
 bool CBloomFilter::IsRelevantAndUpdate(const CTransaction& tx, const uint256& hash)

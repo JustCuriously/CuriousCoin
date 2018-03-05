@@ -1,3 +1,7 @@
+// Copyright (c) 2011-2013 The Bitcoin developers
+// Distributed under the MIT/X11 software license, see the accompanying
+// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
 #ifndef RPCCONSOLE_H
 #define RPCCONSOLE_H
 
@@ -37,12 +41,6 @@ private slots:
     void on_openDebugLogfileButton_clicked();
     /** display messagebox with program parameters (same as bitcoin-qt --help) */
     void on_showCLOptionsButton_clicked();
-    /** change the time range of the network traffic graph */
-    void on_sldGraphRange_valueChanged(int value);
-    /** update traffic statistics */
-    void updateTrafficStats(quint64 totalBytesIn, quint64 totalBytesOut);
-    /** clear traffic graph */
-    void on_btnClearTrafficGraph_clicked();
 
 public slots:
     void clear();
@@ -50,7 +48,7 @@ public slots:
     /** Set number of connections shown in the UI */
     void setNumConnections(int count);
     /** Set number of blocks shown in the UI */
-    void setNumBlocks(int count);
+    void setNumBlocks(int count, int countOfPeers);
     /** Go forward or back in history */
     void browseHistory(int offset);
     /** Scroll console view to end */
@@ -61,9 +59,6 @@ signals:
     void cmdRequest(const QString &command);
 
 private:
-    static QString FormatBytes(quint64 bytes);
-    void setTrafficGraphRange(int mins);
-
     Ui::RPCConsole *ui;
     ClientModel *clientModel;
     QStringList history;

@@ -3,31 +3,35 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>bitcoin.icns</string>
+	<string>funcoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>ArpaCoin-Qt</string>
+	<string>$VERSION, Copyright © 2009-$YEAR The Bitcoin developers</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$VERSION</string>
+	<key>CFBundleVersion</key>
+	<string>$VERSION</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>ArpaCoin-Qt</string>
+	<string>Funcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.ArpaCoin.ArpaCoin-Qt</string>
+	<string>org.funcoin.Funcoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.ArpaCoin.ArpaCoinPayment</string>
+            <string>org.funcoin.FuncoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>ArpaCoin</string>
+              <string>funcoin</string>
             </array>
           </dict>
         </array>
-        <key>LSAppNapIsDisabled</key>
-          <string>True</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
 </dict>
 </plist>

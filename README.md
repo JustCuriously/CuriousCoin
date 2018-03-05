@@ -1,49 +1,73 @@
-# CuriusCoin
+Funcoin integration/staging tree
+================================
 
-The idea of this coin is small mining POW and fast switch to PoS with high ROI
+http://www.funcoin.org
 
-This is a simple coin. Also this coin don`t have premine and stable X
+Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2011-2014 Funcoin Developers
 
-X11 algo with support masternodes.
+What is Funcoin?
+----------------
 
-CuriusCoin SPECIFICATIONS: POW&POS
+Funcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+ - 2.5 minute block targets
+ - subsidy halves in 840k blocks (~4 years)
+ - ~84 million total coins
 
-Algorithm: X11
+The rest is the same as Bitcoin.
+ - 50 coins per block
+ - 2016 blocks to retarget difficulty
 
-Symbol:CUR
+For more information, as well as an immediately useable, binary version of
+the Funcoin client sofware, see http://www.funcoin.org.
 
-Block reward: 15 CUR
+License
+-------
 
-Last POW block 150000
+Funcoin is released under the terms of the MIT license. See `COPYING` for more
+information or see http://opensource.org/licenses/MIT.
 
-Block time: 60 seconds
+Development process
+-------------------
 
-Recalculated difficulty: Every block
+Developers work in their own trees, then submit pull requests when they think
+their feature or bug fix is ready.
 
-Max coin available: 75 Millions
+If it is a simple/trivial/non-controversial change, then one of the Funcoin
+development team members simply pulls it.
 
-Transaction confirmation: 15 blocks
+If it is a *more complicated or potentially controversial* change, then the patch
+submitter will be asked to start a discussion with the devs and community.
 
-Mining maturation time: 10 blocks
+The patch will be accepted if there is broad consensus that it is a good thing.
+Developers should expect to rework and resubmit patches if the code doesn't
+match the project's coding conventions (see `doc/coding.txt`) or are
+controversial.
 
-P2P Port: 55486
+The `master` branch is regularly built and tested, but is not guaranteed to be
+completely stable. [Tags](https://github.com/funcoin-project/funcoin/tags) are created
+regularly to indicate new official, stable release versions of Funcoin.
 
-RPC Port: 55485
+Testing
+-------
 
-Masternodes Creation: 15000 CUR
+Testing and code review is the bottleneck for development; we get more pull
+requests than we can review and test. Please be patient and help out, and
+remember this is a security-critical project where any mistake might cost people
+lots of money.
 
-Masternode reward: 80 % from POS
+### Automated Testing
 
-Min Stake 75 hours
+Developers are strongly encouraged to write unit tests for new code, and to
+submit new unit tests for old code.
 
-Premine 0
+Unit tests for the core code are in `src/test/`. To compile and run them:
 
-POS REWARDS:
+    cd src; make -f makefile.unix test
 
-from block 1 > 15 CUR
+Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
-from block 5000 > 25 CUR
+    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
+    make -f Makefile.test
+    ./funcoin-qt_test
 
-from block 150000 > 50 CUR
-
-from block 500000 > 75 CUR

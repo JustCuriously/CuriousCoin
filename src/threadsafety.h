@@ -2,7 +2,6 @@
 // Copyright (c) 2009-2012 The Bitcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-
 #ifndef BITCOIN_THREADSAFETY_H
 #define BITCOIN_THREADSAFETY_H
 
@@ -21,11 +20,11 @@
 #define PT_GUARDED_VAR                  __attribute__ ((pt_guarded_var))
 #define ACQUIRED_AFTER(...)             __attribute__ ((acquired_after(__VA_ARGS__)))
 #define ACQUIRED_BEFORE(...)            __attribute__ ((acquired_before(__VA_ARGS__)))
-#define EXCLUSIVE_LOCK_FUNCTION(...)    __attribute__ ((exclusive_lock_function(__VA_ARGS__)))
-#define SHARED_LOCK_FUNCTION(...)       __attribute__ ((shared_lock_function(__VA_ARGS__)))
-#define EXCLUSIVE_TRYLOCK_FUNCTION(...) __attribute__ ((exclusive_trylock_function(__VA_ARGS__)))
-#define SHARED_TRYLOCK_FUNCTION(...)    __attribute__ ((shared_trylock_function(__VA_ARGS__)))
-#define UNLOCK_FUNCTION(...)            __attribute__ ((unlock_function(__VA_ARGS__)))
+#define EXCLUSIVE_LOCK_CURCTION(...)    __attribute__ ((exclusive_lock_function(__VA_ARGS__)))
+#define SHARED_LOCK_CURCTION(...)       __attribute__ ((shared_lock_function(__VA_ARGS__)))
+#define EXCLUSIVE_TRYLOCK_CURCTION(...) __attribute__ ((exclusive_trylock_function(__VA_ARGS__)))
+#define SHARED_TRYLOCK_CURCTION(...)    __attribute__ ((shared_trylock_function(__VA_ARGS__)))
+#define UNLOCK_CURCTION(...)            __attribute__ ((unlock_function(__VA_ARGS__)))
 #define LOCK_RETURNED(x)                __attribute__ ((lock_returned(x)))
 #define LOCKS_EXCLUDED(...)             __attribute__ ((locks_excluded(__VA_ARGS__)))
 #define EXCLUSIVE_LOCKS_REQUIRED(...)   __attribute__ ((exclusive_locks_required(__VA_ARGS__)))
@@ -40,11 +39,11 @@
 #define PT_GUARDED_VAR
 #define ACQUIRED_AFTER(...)
 #define ACQUIRED_BEFORE(...)
-#define EXCLUSIVE_LOCK_FUNCTION(...)
-#define SHARED_LOCK_FUNCTION(...)
-#define EXCLUSIVE_TRYLOCK_FUNCTION(...)
-#define SHARED_TRYLOCK_FUNCTION(...)
-#define UNLOCK_FUNCTION(...)
+#define EXCLUSIVE_LOCK_CURCTION(...)
+#define SHARED_LOCK_CURCTION(...)
+#define EXCLUSIVE_TRYLOCK_CURCTION(...)
+#define SHARED_TRYLOCK_CURCTION(...)
+#define UNLOCK_CURCTION(...)
 #define LOCK_RETURNED(x)
 #define LOCKS_EXCLUDED(...)
 #define EXCLUSIVE_LOCKS_REQUIRED(...)

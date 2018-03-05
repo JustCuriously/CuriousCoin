@@ -1,3 +1,7 @@
+// Copyright (c) 2011-2013 The Bitcoin developers
+// Distributed under the MIT/X11 software license, see the accompanying
+// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
 #ifndef PAYMENTSERVER_H
 #define PAYMENTSERVER_H
 
@@ -17,7 +21,7 @@
 // received at or during startup in a list.
 //
 // When startup is finished and the main window is
-// shown, a signal is sent to slot uiReady(), which
+// show, a signal is sent to slot uiReady(), which
 // emits a receivedURL() signal for any payment
 // requests that happened during startup.
 //
@@ -31,14 +35,13 @@
 #include <QObject>
 #include <QString>
 
-class OptionsModel;
-
 class QApplication;
 class QLocalServer;
 
 class PaymentServer : public QObject
 {
     Q_OBJECT
+
 private:
     bool saveURIs;
     QLocalServer* uriServer;
@@ -53,9 +56,6 @@ public:
 
     bool eventFilter(QObject *object, QEvent *event);
 
-    // OptionsModel is used for getting proxy settings and display unit
-    void setOptionsModel(OptionsModel *optionsModel);
-
 signals:
     void receivedURI(QString);
 
@@ -66,9 +66,6 @@ public slots:
 
 private slots:
     void handleURIConnection();
-
-private:
-    OptionsModel *optionsModel;
 };
 
 #endif // PAYMENTSERVER_H
